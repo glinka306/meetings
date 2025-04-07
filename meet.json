@@ -1,0 +1,42 @@
+[ {
+        "id": 36971,
+        "name": "Sunday Breakfast",
+        "slug": "sunday-breakfast",
+        "notes": "Breakfast served from 8:30 to 9:30AM, followed by an open meeting of Alcoholics Anonymous and Al-Anon",
+        "updated": "2025-01-12 17:43:00",
+        "location_id": 36647,
+        "url": "https:\/\/aasask.org\/meetings\/sunday-breakfast\/",
+        "day": 0,
+        "time": "08:30",
+        "end_time": "11:00",
+        "time_formatted": "8:30 am",
+        "edit_url": "https:\/\/aasask.org\/wp-admin\/post.php?post=36971&action=edit",
+        "types": [
+            "BRK",
+            "AL-AN",
+            "O"
+        ],
+        "author": "Shawny G",
+        "location": "Lions Hall",
+        "location_url": "https:\/\/aasask.org\/locations\/lions-hall\/",
+        "formatted_address": "155 3 Ave NE, Swift Current, SK S9H 2G4, Canada",
+        "approximate": "no",
+        "latitude": 50.28461250000000148929757415316998958587646484375,
+        "longitude": -107.7956487999999950488927424885332584381103515625,
+        "region_id": 141,
+        "region": "Swift Current",
+        "regions": [
+            "Swift Current"
+        ],
+        "attendance_option": "in_person",
+        "entity": "Area 91",
+        "entity_email": "webservant@aasask.org",
+        "entity_url": "https:\/\/aasask.org",
+        "entity_location": "Saskatchewan",
+        "feedback_emails": [
+            "techsupport@aasask.org",
+            "webservant@aasask.org"
+        ]
+    },
+
+]
